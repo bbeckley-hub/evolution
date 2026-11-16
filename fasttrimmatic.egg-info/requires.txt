@@ -1,6 +1,0 @@
-biopython
-numpy
-tqdm
-
-[ml]
-scikit-learn
